@@ -1,0 +1,8 @@
+Consegna:
+
+-Scrivi un'applicazione Spring Boot con le dipendenze necessarie che abbia:
+  -un HeaderController che:
+    -è mappato 'headers'
+    -restituisce il nome host e la porta host utilizzando le intestazioni della richiesta
+
+-testare l'endpoint API conPostman
